@@ -1,6 +1,6 @@
 
 module "pet" {
   source  = "app.terraform.io/berchevorg/pet/randompet"
-  version = "1.0.0"
+  version = "~> 1.0.0"
 }
 
